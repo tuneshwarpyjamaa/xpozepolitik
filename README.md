@@ -1,8 +1,8 @@
 # Karnataka MP Directory
 
-## Version: 1.0 (Consolidated)  
+## Version: 0.1
 **Date:** November 4, 2025  
-**Product Owner:** [Your Name/Team Name]  
+**Product Owner:** Amish B Harsoor  
 **Product Goal:** To provide citizens with an easily accessible, accurate, and concise repository of information about their current Members of Parliament (MPs) representing Karnataka in both Lok Sabha and Rajya Sabha, thereby enhancing political transparency.
 
 ---
