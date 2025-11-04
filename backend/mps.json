@@ -1,0 +1,15 @@
+[
+  {
+    "id": "unique-mp-id-1",
+    "name": "Shri. Tejasvi Surya",
+    "party": "Bharatiya Janata Party",
+    "constituency": "Bangalore South",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://via.placeholder.com/150",
+    "performance_metrics": {
+      "attendance_percentage": 90,
+      "questions_asked": 150,
+      "mplads_fund_utilization": 75
+    }
+  }
+]
