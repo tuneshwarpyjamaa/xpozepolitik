@@ -23,9 +23,9 @@ def get_api_key(api_key: str = Depends(api_key_header)):
     return api_key
 
 class PerformanceMetrics(BaseModel):
-    attendance_percentage: int
-    questions_asked: int
-    mplads_fund_utilization: Optional[int] = None
+    attendance_percentage: str
+    questions_asked: str
+    mplads_fund_utilization: Optional[str] = None
 
 class MP(BaseModel):
     id: str
