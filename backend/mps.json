@@ -1,15 +1,366 @@
 [
   {
-    "id": "unique-mp-id-1",
+    "id": "1",
     "name": "Shri. Tejasvi Surya",
     "party": "Bharatiya Janata Party",
     "constituency": "Bangalore South",
     "house": "Lok Sabha",
-    "profile_image_url": "https://via.placeholder.com/150",
+    "profile_image_url": "https://via.placeholder.com/150/0000FF/FFFFFF?text=TS",
     "performance_metrics": {
-      "attendance_percentage": 90,
-      "questions_asked": 150,
-      "mplads_fund_utilization": 75
+      "attendance_percentage": "77% (Based on 17th LS Term)",
+      "questions_asked": "382 (Based on 17th LS Term, highest among Bengaluru MPs)",
+      "mplads_fund_utilization": "₹19.36 Cr (Based on 17th LS Term)"
+    }
+  },
+  {
+    "id": "2",
+    "name": "Shri. P C Mohan",
+    "party": "Bharatiya Janata Party",
+    "constituency": "Bangalore Central",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://via.placeholder.com/150/0000FF/FFFFFF?text=PCM",
+    "performance_metrics": {
+      "attendance_percentage": "97% (Initial 18th LS Data)",
+      "questions_asked": "189 (Based on 17th LS Term)",
+      "mplads_fund_utilization": "₹17.79 Cr (Based on 17th LS Term)"
+    }
+  },
+  {
+    "id": "3",
+    "name": "Dr. C N Manjunath",
+    "party": "Bharatiya Janata Party",
+    "constituency": "Bangalore Rural",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://via.placeholder.com/150/0000FF/FFFFFF?text=CNM",
+    "performance_metrics": {
+      "attendance_percentage": "94% (Initial 18th LS Data)",
+      "questions_asked": "6 (Initial 18th LS Data)",
+      "mplads_fund_utilization": "₹6.3 Cr (Initial 18th LS Data)"
+    }
+  },
+  {
+    "id": "4",
+    "name": "Kum. Shobha Karandlaje",
+    "party": "Bharatiya Janata Party",
+    "constituency": "Bangalore North",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://via.placeholder.com/150/0000FF/FFFFFF?text=SK",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    }
+  },
+  {
+    "id": "5",
+    "name": "Shri. H D Kumaraswamy",
+    "party": "Janata Dal (Secular)",
+    "constituency": "Mandya",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://via.placeholder.com/150/008000/FFFFFF?text=HDK",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    }
+  },
+  {
+    "id": "6",
+    "name": "Shri. Jagadish Shettar",
+    "party": "Bharatiya Janata Party",
+    "constituency": "Belgaum",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://via.placeholder.com/150/0000FF/FFFFFF?text=JS",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    }
+  },
+  {
+    "id": "7",
+    "name": "Kum. Priyanka Satish Jarkiholi",
+    "party": "Indian National Congress",
+    "constituency": "Chikkodi",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://via.placeholder.com/150/FF0000/FFFFFF?text=PSJ",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    }
+  },
+  {
+    "id": "8",
+    "name": "Shri. Pralhad Joshi",
+    "party": "Bharatiya Janata Party",
+    "constituency": "Dharwad",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://via.placeholder.com/150/0000FF/FFFFFF?text=PJ",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "0 (Based on 17th LS Term)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    }
+  },
+  {
+    "id": "9",
+    "name": "Dr. K Sudhakar",
+    "party": "Bharatiya Janata Party",
+    "constituency": "Chikkballapur",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://via.placeholder.com/150/0000FF/FFFFFF?text=KS",
+    "performance_metrics": {
+      "attendance_percentage": "93% (Initial 18th LS Data)",
+      "questions_asked": "125 (Initial 18th LS Data)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    }
+  },
+  {
+    "id": "10",
+    "name": "Shri. Yaduveer Wadiyar",
+    "party": "Bharatiya Janata Party",
+    "constituency": "Mysore",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://via.placeholder.com/150/0000FF/FFFFFF?text=YW",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    }
+  },
+  {
+    "id": "11",
+    "name": "Shri. B Y Raghavendra",
+    "party": "Bharatiya Janata Party",
+    "constituency": "Shimoga",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://via.placeholder.com/150/0000FF/FFFFFF?text=BYR",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    }
+  },
+  {
+    "id": "12",
+    "name": "Shri. Basavaraj Bommai",
+    "party": "Bharatiya Janata Party",
+    "constituency": "Haveri",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://via.placeholder.com/150/0000FF/FFFFFF?text=BB",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    }
+  },
+  {
+    "id": "13",
+    "name": "Shri. Ramesh Chandappa Jigajinagi",
+    "party": "Bharatiya Janata Party",
+    "constituency": "Bijapur",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://via.placeholder.com/150/0000FF/FFFFFF?text=RCJ",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "0 (Based on 17th LS Term)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    }
+  },
+  {
+    "id": "14",
+    "name": "Shri. Govind Makthappa Karjol",
+    "party": "Bharatiya Janata Party",
+    "constituency": "Chitradurga",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://via.placeholder.com/150/0000FF/FFFFFF?text=GMK",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    }
+  },
+  {
+    "id": "15",
+    "name": "Shri. V Somanna",
+    "party": "Bharatiya Janata Party",
+    "constituency": "Tumkur",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://via.placeholder.com/150/0000FF/FFFFFF?text=VS",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    }
+  },
+  {
+    "id": "16",
+    "name": "Shri. Kota Srinivasa Poojary",
+    "party": "Bharatiya Janata Party",
+    "constituency": "Udupi Chikmagalur",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://via.placeholder.com/150/0000FF/FFFFFF?text=KSP",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    }
+  },
+  {
+    "id": "17",
+    "name": "Shri. Vishveshwer Hegde Kageri",
+    "party": "Bharatiya Janata Party",
+    "constituency": "Uttara Kannada",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://via.placeholder.com/150/0000FF/FFFFFF?text=VHK",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    }
+  },
+  {
+    "id": "18",
+    "name": "Shri. Captain Brijesh Chowta",
+    "party": "Bharatiya Janata Party",
+    "constituency": "Dakshina Kannada",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://via.placeholder.com/150/0000FF/FFFFFF?text=CBC",
+    "performance_metrics": {
+      "attendance_percentage": "96% (Initial 18th LS Data)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    }
+  },
+  {
+    "id": "19",
+    "name": "Shri. GADDIGOUDAR PARVTAGOUDA CHANDANAGOUDA",
+    "party": "Bharatiya Janata Party",
+    "constituency": "Bagalkot",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://via.placeholder.com/150/0000FF/FFFFFF?text=GPC",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    }
+  },
+  {
+    "id": "20",
+    "name": "Shri. M Mallesh Babu",
+    "party": "Janata Dal (Secular)",
+    "constituency": "Kolar",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://via.placeholder.com/150/008000/FFFFFF?text=MMB",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    }
+  },
+  {
+    "id": "21",
+    "name": "Shri. E Tukaram",
+    "party": "Indian National Congress",
+    "constituency": "Bellary",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://via.placeholder.com/150/FF0000/FFFFFF?text=ET",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    }
+  },
+  {
+    "id": "22",
+    "name": "Shri. Sagar Eshwar Khandre",
+    "party": "Indian National Congress",
+    "constituency": "Bidar",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://via.placeholder.com/150/FF0000/FFFFFF?text=SEK",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    }
+  },
+  {
+    "id": "23",
+    "name": "Shri. Sunil Bose",
+    "party": "Indian National Congress",
+    "constituency": "Chamarajanagar",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://via.placeholder.com/150/FF0000/FFFFFF?text=SB",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    }
+  },
+  {
+    "id": "24",
+    "name": "Dr. Prabha Mallikarjun",
+    "party": "Indian National Congress",
+    "constituency": "Davanagere",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://via.placeholder.com/150/FF0000/FFFFFF?text=PM",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    }
+  },
+  {
+    "id": "25",
+    "name": "Shri. Radhakrishna",
+    "party": "Indian National Congress",
+    "constituency": "Gulbarga",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://via.placeholder.com/150/FF0000/FFFFFF?text=RK",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    }
+  },
+  {
+    "id": "26",
+    "name": "Shri. Shreyas M Patel",
+    "party": "Indian National Congress",
+    "constituency": "Hassan",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://via.placeholder.com/150/FF0000/FFFFFF?text=SMP",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    }
+  },
+  {
+    "id": "27",
+    "name": "Shri. Rajashekar Basavaraj K Hitnal",
+    "party": "Indian National Congress",
+    "constituency": "Koppal",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://via.placeholder.com/150/FF0000/FFFFFF?text=RBKH",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    }
+  },
+  {
+    "id": "28",
+    "name": "Shri. G Kumar Naik",
+    "party": "Indian National Congress",
+    "constituency": "Raichur",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://via.placeholder.com/150/FF0000/FFFFFF?text=GKN",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
     }
   }
 ]
