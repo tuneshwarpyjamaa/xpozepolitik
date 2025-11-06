@@ -2,22 +2,25 @@
   "version": 2,
   "builds": [
     {
-      "src": "backend/main.py",
-      "use": "@vercel/python"
+      "src": "frontend/next.config.mjs",
+      "use": "@vercel/next",
+      "config": {
+        "workPath": "frontend"
+      }
     },
     {
-      "src": "frontend/package.json",
-      "use": "@vercel/next"
+      "src": "backend/main.py",
+      "use": "@vercel/python"
     }
   ],
   "routes": [
     {
       "src": "/api/(.*)",
-      "dest": "backend/main.py"
+      "dest": "/backend/main.py"
     },
     {
       "src": "/(.*)",
-      "dest": "frontend/$1"
+      "dest": "/frontend/$1"
     }
   ]
 }
