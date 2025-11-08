@@ -5,8 +5,9 @@ import { promises as fs } from 'fs';
 
 export async function GET(
   request: NextRequest,
-  { params }: { params: { id: string } }
+  context: { params: { id: string } }
 ) {
+  const { params } = context;
   try {
     const id = params.id;
     
