@@ -1,0 +1,674 @@
+[
+  {
+    "id": "1",
+    "name": "Shri. Tejasvi Surya",
+    "party": "Bharatiya Janata Party",
+    "constituency": "Bangalore South",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Tejasvi_Surya_in_2024.jpg/220px-Tejasvi_Surya_in_2024.jpg",
+    "performance_metrics": {
+      "attendance_percentage": "77% (Based on 17th LS Term)",
+      "questions_asked": "382 (Based on 17th LS Term, highest among Bengaluru MPs)",
+      "mplads_fund_utilization": "₹19.36 Cr (Based on 17th LS Term)"
+    },
+    "net_worth": "₹4.1 Crore (as per 2024 election affidavit)",
+    "assets": {
+      "movable": "₹4.1 Crore",
+      "immovable": "₹0",
+      "liabilities": "₹0"
+    },
+    "education": "LLB (Graduate Professional)",
+    "criminal_cases": "3 pending (all serious: includes assault on public servant, defamation, and hate speech)",
+    "businesses": "Advocate (legal practice); Investments in mutual funds and shares",
+    "complete_history": "Born November 16, 1990, in Bangalore; Son of former excise commissioner L.A. Suryanarayana; Joined BJP Yuva Morcha, became its national president; Elected MP from Bangalore South in 2019 and 2024; Known for interests in history, philosophy, and sports like triathlon.",
+    "controversies": "Accused of inciting violence in 2020 Bengaluru riots (denied as politically motivated); Hate speech allegations; Defamation cases."
+  },
+  {
+    "id": "2",
+    "name": "Shri. P C Mohan",
+    "party": "Bharatiya Janata Party",
+    "constituency": "Bangalore Central",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/P._C._Mohan.jpg/220px-P._C._Mohan.jpg",
+    "performance_metrics": {
+      "attendance_percentage": "97% (Initial 18th LS Data)",
+      "questions_asked": "189 (Based on 17th LS Term)",
+      "mplads_fund_utilization": "₹17.79 Cr (Based on 17th LS Term)"
+    },
+    "net_worth": "₹81.3 Crore (as per 2024 election affidavit)",
+    "assets": {
+      "movable": "₹14.9 Crore",
+      "immovable": "₹66.4 Crore",
+      "liabilities": "₹15.9 Crore"
+    },
+    "education": "12th Pass",
+    "criminal_cases": "2 pending (includes false declaration of assets in 2014 and 2019 affidavits)",
+    "businesses": "Business and Social Worker (real estate and other ventures)",
+    "complete_history": "Born July 24, 1963, in Bangalore; Two-term MLA from Chickpet (1999-2008); Elected MP from Bangalore Central in 2009, 2014, 2019, and 2024; Served on committees for External Affairs, Urban Development, and OBC.",
+    "controversies": "Criminal proceedings for false asset declarations; Involved in controversies over urban development projects."
+  },
+  {
+    "id": "3",
+    "name": "Dr. C N Manjunath",
+    "party": "Bharatiya Janata Party",
+    "constituency": "Bangalore Rural",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/C._N._Manjunath_%28cropped%29.jpg/220px-C._N._Manjunath_%28cropped%29.jpg",
+    "performance_metrics": {
+      "attendance_percentage": "94% (Initial 18th LS Data)",
+      "questions_asked": "6 (Initial 18th LS Data)",
+      "mplads_fund_utilization": "₹6.3 Cr (Initial 18th LS Data)"
+    },
+    "net_worth": "₹98.4 Crore (as per 2024 election affidavit)",
+    "assets": {
+      "movable": "₹25.1 Crore",
+      "immovable": "₹73.3 Crore",
+      "liabilities": "Not specified"
+    },
+    "education": "Post Graduate (MBBS, MD in Cardiology)",
+    "criminal_cases": "0 pending",
+    "businesses": "Cardiologist; Director of Sri Jayadeva Institute; Investments in real estate and agriculture",
+    "complete_history": "Born September 23, 1957; Son-in-law of former PM H.D. Deve Gowda; Pioneered 'Manjunath technique' for heart procedures; Awarded Padma Shri in 2007; Elected MP from Bangalore Rural in 2024.",
+    "controversies": "Denies involvement in ₹918 Cr COVID-19 equipment procurement lapses (2024); Accusations of procedural irregularities during pandemic."
+  },
+  {
+    "id": "4",
+    "name": "Kum. Shobha Karandlaje",
+    "party": "Bharatiya Janata Party",
+    "constituency": "Bangalore North",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Shobha_Karandlaje_%28cropped%29.jpg/220px-Shobha_Karandlaje_%28cropped%29.jpg",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    },
+    "net_worth": "₹13.9 Crore (as per 2024 election affidavit)",
+    "assets": {
+      "movable": "₹9.2 Crore (includes ₹68.4 lakh gold biscuits, ₹40 lakh jewellery)",
+      "immovable": "₹4.7 Crore",
+      "liabilities": "₹4.1 Crore"
+    },
+    "education": "Post Graduate (MSW from Mangalore University, 1990; MA Sociology from Mysore University, 1996)",
+    "criminal_cases": "5 pending (4 serious: includes money laundering, hate speech, defamation)",
+    "businesses": "Parliamentarian; Earlier social work and acting in TV (debut in CID Karnataka)",
+    "complete_history": "Born October 23, 1966, in Puttur; RSS full-time worker from early age; Minister in first BJP Karnataka govt (2008); MP from Udupi Chikmagalur (2014, 2019); Union Minister of State for Agriculture, Labour, MSME (2024); Switched to Bangalore North in 2024.",
+    "controversies": "Hate speech cases (e.g., inflammatory remarks on Tamil Nadu and cafe bomber); Money laundering probe; Defamation against opposition candidates."
+  },
+  {
+    "id": "5",
+    "name": "Shri. H D Kumaraswamy",
+    "party": "Janata Dal (Secular)",
+    "constituency": "Mandya",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/H._D._Kumaraswamy_in_2024.jpg/220px-H._D._Kumaraswamy_in_2024.jpg",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    },
+    "net_worth": "₹217.2 Crore (as per 2024 election affidavit; wife ₹154.39 Cr)",
+    "assets": {
+      "movable": "₹102.2 Crore",
+      "immovable": "₹115 Crore",
+      "liabilities": "₹82.2 Crore"
+    },
+    "education": "Graduate",
+    "criminal_cases": "3 pending (9 serious: includes forgery, criminal breach of trust)",
+    "businesses": "Social Worker, Politician, Agriculturist; Family businesses in real estate and agriculture",
+    "complete_history": "Born December 16, 1959; Son of former PM H.D. Deve Gowda; MLA from Ramanagara (1996); CM of Karnataka (2006-2007, 2018-2019); Union Minister of Heavy Industries and Steel (2024); Elected MP from Mandya in 2024.",
+    "controversies": "Janthakal mining scam; Vishwabharati case; Bigamy allegations; Forgery and evidence tampering charges."
+  },
+  {
+    "id": "6",
+    "name": "Shri. Jagadish Shettar",
+    "party": "Bharatiya Janata Party",
+    "constituency": "Belgaum",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Jagadish_Shettar_in_2024.jpg/220px-Jagadish_Shettar_in_2024.jpg",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    },
+    "net_worth": "₹13.4 Crore (as per 2024 election affidavit)",
+    "assets": {
+      "movable": "₹3.5 Crore",
+      "immovable": "₹9.8 Crore",
+      "liabilities": "₹71.7 Lakh"
+    },
+    "education": "LLB (Graduate Professional)",
+    "criminal_cases": "0 pending",
+    "businesses": "Lawyer and Agriculture",
+    "complete_history": "Born December 17, 1955, in Hubli; Son of Jana Sangh activist Shivappa Shettar; Practiced law for 20 years; MLA from Hubli (1994-2023, with party switches: BJP to INC back to BJP); CM of Karnataka (2012-2013); MP from Belgaum (2024).",
+    "controversies": "Party defections (joined INC in 2023, returned to BJP); Internal BJP leadership battles."
+  },
+  {
+    "id": "7",
+    "name": "Kum. Priyanka Satish Jarkiholi",
+    "party": "Indian National Congress",
+    "constituency": "Chikkodi",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Priyanka_Jarkiholi_2024.jpg/220px-Priyanka_Jarkiholi_2024.jpg",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    },
+    "net_worth": "₹9.1 Crore (as per 2024 election affidavit)",
+    "assets": {
+      "movable": "₹7.3 Crore",
+      "immovable": "₹1.8 Crore",
+      "liabilities": "₹1.6 Crore"
+    },
+    "education": "Post Graduate",
+    "criminal_cases": "0 pending",
+    "businesses": "Managing Director in companies (sugar, fertilizer, construction, mining); Partner in firms",
+    "complete_history": "Born ~1997; Daughter of INC Minister Satish Jarkiholi; Youngest tribal woman MP from unreserved seat; Elected MP from Chikkodi in 2024.",
+    "controversies": "Family-linked: Father's political ambitions and controversies (e.g., CM aspirations); No personal cases."
+  },
+  {
+    "id": "8",
+    "name": "Shri. Pralhad Joshi",
+    "party": "Bharatiya Janata Party",
+    "constituency": "Dharwad",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Pralhad_Joshi_in_2024.jpg/220px-Pralhad_Joshi_in_2024.jpg",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "0 (Based on 17th LS Term)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    },
+    "net_worth": "₹21.1 Crore (as per 2024 election affidavit; family income doubled in 5 years)",
+    "assets": {
+      "movable": "₹9 Crore",
+      "immovable": "₹12.1 Crore",
+      "liabilities": "₹8 Crore"
+    },
+    "education": "Graduate (BA from Karnataka University, 1983)",
+    "criminal_cases": "0 pending",
+    "businesses": "Social Service & Business (industrialist background)",
+    "complete_history": "Born November 27, 1962, in Bijapur; RSS member from youth; Organized Idgah Maidan flag hoisting movement (1992-94); MP from Dharwad (2004-2024); Union Minister for Coal, Mines, Parliamentary Affairs (2019-2024); Consumer Affairs, Food & Renewable Energy (2024).",
+    "controversies": "FIR for comparing Hubli area to Pakistan (2018, promoting enmity); Family income surge scrutiny."
+  },
+  {
+    "id": "9",
+    "name": "Dr. K Sudhakar",
+    "party": "Bharatiya Janata Party",
+    "constituency": "Chikkballapur",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/K._Sudhakar_in_2024.jpg/220px-K._Sudhakar_in_2024.jpg",
+    "performance_metrics": {
+      "attendance_percentage": "93% (Initial 18th LS Data)",
+      "questions_asked": "125 (Initial 18th LS Data)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    },
+    "net_worth": "₹33.4 Crore (as per 2024 election affidavit)",
+    "assets": {
+      "movable": "₹9.9 Crore",
+      "immovable": "₹23.5 Crore",
+      "liabilities": "₹20.3 Crore"
+    },
+    "education": "Graduate Professional (MBBS)",
+    "criminal_cases": "1 pending (bribery and undue influence on electors, 2024)",
+    "businesses": "Doctor; Managing Trustee of Shri Sai Krishna Charitable Trust",
+    "complete_history": "Born ~1974; Switched from INC to BJP (2019, among 18 disqualified MLAs); MLA from Chikkaballapur (2013-2023); Health Minister during COVID (2020-2023); Elected MP from Chikkaballapur in 2024.",
+    "controversies": "FIR for cash seizure (₹4.8 Cr) and bribery during 2024 elections; Role in COVID management scrutiny."
+  },
+  {
+    "id": "10",
+    "name": "Shri. Yaduveer Wadiyar",
+    "party": "Bharatiya Janata Party",
+    "constituency": "Mysore",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Yaduveer_Krishnadatta_Chamaraja_Wadiyar_in_2024.jpg/220px-Yaduveer_Krishnadatta_Chamaraja_Wadiyar_in_2024.jpg",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    },
+    "net_worth": "₹9.5 Crore (as per 2024 election affidavit; family assets ~₹10,000 Cr)",
+    "assets": {
+      "movable": "₹9.5 Crore (shares, gold, silver)",
+      "immovable": "₹0 (no personal property/vehicle)",
+      "liabilities": "₹0"
+    },
+    "education": "Graduate (English Literature and Economics)",
+    "criminal_cases": "0 pending",
+    "businesses": "Company Director (e.g., Little Banyans Pvt Ltd, Bherunda Foundation); Heritage tourism and education trusts",
+    "complete_history": "Born March 24, 1992; Adopted as 27th Custodian of Mysore Royal House (2015); Trustee of Sri Jayachamarajendra Ursu Education Trust; Elected MP from Mysore in 2024.",
+    "controversies": "Dynastic curse lore (childlessness); Palace asset management debates."
+  },
+  {
+    "id": "11",
+    "name": "Shri. B Y Raghavendra",
+    "party": "Bharatiya Janata Party",
+    "constituency": "Shimoga",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/B._Y._Raghavendra_in_2024.jpg/220px-B._Y._Raghavendra_in_2024.jpg",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    },
+    "net_worth": "₹73.7 Crore (as per 2024 election affidavit; wife ₹Tejaswini also businesswoman)",
+    "assets": {
+      "movable": "₹34.1 Crore",
+      "immovable": "₹39.7 Crore",
+      "liabilities": "₹13.6 Crore"
+    },
+    "education": "Graduate (Business Management)",
+    "criminal_cases": "1 pending (serious IPC sections)",
+    "businesses": "Agriculturist, Educationist, Business (₹9 Cr investments in industries)",
+    "complete_history": "Born June 17, 1973; Son of former CM B.S. Yediyurappa; MP from Shimoga (2009-2024); Loans to family members (e.g., ₹5.49 Cr to wife).",
+    "controversies": "Family nepotism allegations; Criminal case details under probe."
+  },
+  {
+    "id": "12",
+    "name": "Shri. Basavaraj Bommai",
+    "party": "Bharatiya Janata Party",
+    "constituency": "Haveri",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Basavaraj_Bommai_in_2024.jpg/220px-Basavaraj_Bommai_in_2024.jpg",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    },
+    "net_worth": "₹54 Crore (as per 2024 election affidavit)",
+    "assets": {
+      "movable": "₹10.5 Crore",
+      "immovable": "₹43.5 Crore",
+      "liabilities": "₹5.5 Crore"
+    },
+    "education": "Graduate Professional (Mechanical Engineering)",
+    "criminal_cases": "0 pending",
+    "businesses": "Public Servant & Business (agriculture, inherited HUF properties)",
+    "complete_history": "Born January 20, 1960; Son of former CM S.R. Bommai; MLA from Shiggaon (2008-2023); CM of Karnataka (2021-2023); Elected MP from Haveri in 2024.",
+    "controversies": "Temple demolition orders (2021); Factories Amendment Act extending work hours (2023); COVID policy criticisms."
+  },
+  {
+    "id": "13",
+    "name": "Shri. Ramesh Chandappa Jigajinagi",
+    "party": "Bharatiya Janata Party",
+    "constituency": "Bijapur",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ramesh_Jigajinagi_2024.jpg/220px-Ramesh_Jigajinagi_2024.jpg",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "0 (Based on 17th LS Term)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    },
+    "net_worth": "₹50.4 Crore (as per recent affidavit)",
+    "assets": {
+      "movable": "Not specified",
+      "immovable": "Not specified",
+      "liabilities": "₹3.76 Crore"
+    },
+    "education": "Graduate",
+    "criminal_cases": "0 pending",
+    "businesses": "Agriculturist; Former police officer and musician",
+    "complete_history": "Born ~1958; Five-time MP from Bijapur (1998-2024); Union Minister of State for Drinking Water and Sanitation (2019-2024).",
+    "controversies": "Significant asset growth (among top re-elected MPs); No major personal cases."
+  },
+  {
+    "id": "14",
+    "name": "Shri. Govind Makthappa Karjol",
+    "party": "Bharatiya Janata Party",
+    "constituency": "Chitradurga",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Govind_Karjol_in_2024.jpg/220px-Govind_Karjol_in_2024.jpg",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    },
+    "net_worth": "₹4.3 Crore (as per 2024 election affidavit)",
+    "assets": {
+      "movable": "₹2.1 Crore",
+      "immovable": "₹2.3 Crore",
+      "liabilities": "₹0"
+    },
+    "education": "10th Pass (SSLC)",
+    "criminal_cases": "0 pending",
+    "businesses": "Cultivator (agriculture)",
+    "complete_history": "Born January 25, 1951, in Bagalkot; Five-time MLA from Mudhol; Deputy CM and Irrigation Minister (2021-2023); Elected MP from Chitradurga in 2024.",
+    "controversies": "No major controversies; Focus on rural development."
+  },
+  {
+    "id": "15",
+    "name": "Shri. V Somanna",
+    "party": "Bharatiya Janata Party",
+    "constituency": "Tumkur",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/V._Somanna_in_2024.jpg/220px-V._Somanna_in_2024.jpg",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    },
+    "net_worth": "₹60.8 Crore (as per 2024 election affidavit)",
+    "assets": {
+      "movable": "₹9.6 Crore",
+      "immovable": "₹51.2 Crore",
+      "liabilities": "₹22.6 Crore"
+    },
+    "education": "Graduate",
+    "criminal_cases": "1 pending (disproportionate assets under PC Act, 204% excess; court summons 2022)",
+    "businesses": "Former Minister; Real estate and infrastructure (multiple sites in Bengaluru, Mysuru, Mangaluru)",
+    "complete_history": "Born July 20, 1950, in Doddamaralavadi; Councillor (1989), MLC, MLA from Govindraj Nagar (2018-2023); Housing Minister (2008, 2020-2023); Elected MP from Tumkur in 2024.",
+    "controversies": "Disproportionate assets case (2013 complaint); 'Slapping' video at public event (2022); Land denotification irregularities."
+  },
+  {
+    "id": "16",
+    "name": "Shri. Kota Srinivasa Poojary",
+    "party": "Bharatiya Janata Party",
+    "constituency": "Udupi Chikmagalur",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Kota_Srinivas_Poojary_2024.jpg/220px-Kota_Srinivas_Poojary_2024.jpg",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    },
+    "net_worth": "₹2.9 Crore (as per 2024 election affidavit)",
+    "assets": {
+      "movable": "Not specified in detail",
+      "immovable": "Not specified in detail",
+      "liabilities": "₹1 Crore"
+    },
+    "education": "5th Pass",
+    "criminal_cases": "0 pending",
+    "businesses": "Agriculturist & Social Service",
+    "complete_history": "Born November 15, 1959, in Kotathattu, Karnataka; From a Billava family; Worked in provisional store to support family; Involved in local panchayat initiatives like Dr. Shivaram Karanth theme park; BJP roles since 2009; MLC (2009); Minister for Ports & Inland Transport, Muzrai (2012-2013); Minister of Social Welfare and Backward Classes Welfare (2021-2023); Leader of Karnataka Legislative Council; Elected MP from Udupi Chikmagalur in 2024.",
+    "controversies": "Allegations in 2021 over construction of an expensive house; Known for oratory skills and service-oriented initiatives."
+  },
+  {
+    "id": "17",
+    "name": "Shri. Vishveshwer Hegde Kageri",
+    "party": "Bharatiya Janata Party",
+    "constituency": "Uttara Kannada",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Vishweshwar_Hegde_Kageri_2024.jpg/220px-Vishweshwar_Hegde_Kageri_2024.jpg",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    },
+    "net_worth": "₹16.3 Crore (as per 2023 assembly affidavit; 2024 LS details limited)",
+    "assets": {
+      "movable": "₹9 Crore",
+      "immovable": "₹7.4 Crore",
+      "liabilities": "₹0"
+    },
+    "education": "Graduate (B.Com from Karnataka College, Dharwad, 1982)",
+    "criminal_cases": "0 pending",
+    "businesses": "Ex-MLA & Agriculturist",
+    "complete_history": "Born July 10, 1961, in Sirsi; Student union leader and ABVP office bearer; MLA from Ankola (1994-2008), Sirsi (2008-2023); Minister for Primary and Secondary Education (2008-2013); Speaker of Karnataka Legislative Assembly (2019-2023); Elected MP from Uttara Kannada in 2024.",
+    "controversies": "Lost 2023 assembly seat to Congress; No major personal controversies; Known for disciplined politics and strong speaking skills."
+  },
+  {
+    "id": "18",
+    "name": "Shri. Captain Brijesh Chowta",
+    "party": "Bharatiya Janata Party",
+    "constituency": "Dakshina Kannada",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Brijesh_Chowta_2024.jpg/220px-Brijesh_Chowta_2024.jpg",
+    "performance_metrics": {
+      "attendance_percentage": "96% (Initial 18th LS Data)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    },
+    "net_worth": "₹70.8 Lakh (as per 2024 election affidavit)",
+    "assets": {
+      "movable": "₹27.1 Lakh",
+      "immovable": "₹43.5 Lakh (agricultural land inherited)",
+      "liabilities": "₹9.6 Lakh"
+    },
+    "education": "Graduate (BSc from St. Aloysius College, Mangalore University, 2002; Certificate in Business Management from IIM Indore, 2010)",
+    "criminal_cases": "1 pending (under Representation of People’s Act at Nanjangud, Mysuru)",
+    "businesses": "Entrepreneur (post-military); Served in Indian Army (7th Battalion, 8th Gorkha Rifles, 2003-2010)",
+    "complete_history": "Born ~1982 in Mangaluru; Son of retired agriculturist Sesanna Chowta; Joined Indian Army via CDS, served in counter-insurgency in Assam and Manipur; Joined BJP in 2013; Election in-charge for Byndoor (2023); BJP Karnataka state secretary (Dec 2023); Elected MP from Dakshina Kannada in 2024, defeating INC's Padmaraj R. Poojari by 1,49,208 votes.",
+    "controversies": "Pending case related to election law; No major additional controversies noted."
+  },
+  {
+    "id": "19",
+    "name": "Shri. GADDIGOUDAR PARVTAGOUDA CHANDANAGOUDA",
+    "party": "Bharatiya Janata Party",
+    "constituency": "Bagalkot",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Parvatagouda_Chandanagouda_Gaddigoudar_2024.jpg/220px-Parvatagouda_Chandanagouda_Gaddigoudar_2024.jpg",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    },
+    "net_worth": "Not fully detailed in 2024; previous affidavits show significant growth",
+    "assets": {
+      "movable": "Not specified",
+      "immovable": "Not specified",
+      "liabilities": "₹2.4 Crore"
+    },
+    "education": "Graduate",
+    "criminal_cases": "0 pending",
+    "businesses": "Agriculturist; Industrialist background",
+    "complete_history": "Born ~1958; Five-time MP from Bagalkot (1998-2024); Union Minister of State for Drinking Water and Sanitation (2019-2024); Re-elected in 2024.",
+    "controversies": "Significant asset growth scrutinized; No major criminal cases."
+  },
+  {
+    "id": "20",
+    "name": "Shri. M Mallesh Babu",
+    "party": "Janata Dal (Secular)",
+    "constituency": "Kolar",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/M._Mallesh_Babu_2024.jpg/220px-M._Mallesh_Babu_2024.jpg",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    },
+    "net_worth": "₹23.9 Crore (as per 2024 election affidavit)",
+    "assets": {
+      "movable": "Not specified",
+      "immovable": "Not specified",
+      "liabilities": "₹3.4 Crore"
+    },
+    "education": "Post Graduate (MBA, Bangalore University, 1997)",
+    "criminal_cases": "1 pending (1 serious)",
+    "businesses": "Business (Retail Outlet of IOCL Petrol Bunk - Shri Sai Service Station); Spouse: Agriculturist",
+    "complete_history": "Born ~1975; JD(S) candidate; Elected MP from Kolar (SC) in 2024.",
+    "controversies": "Pending serious criminal case; Details not specified in public reports."
+  },
+  {
+    "id": "21",
+    "name": "Shri. E Tukaram",
+    "party": "Indian National Congress",
+    "constituency": "Bellary",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/E._Tukaram_2024.jpg/220px-E._Tukaram_2024.jpg",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    },
+    "net_worth": "₹3.5 Crore (as per 2024 election affidavit)",
+    "assets": {
+      "movable": "Not specified",
+      "immovable": "Not specified",
+      "liabilities": "₹1.2 Crore"
+    },
+    "education": "Post Graduate",
+    "criminal_cases": "0 pending",
+    "businesses": "Social Service",
+    "complete_history": "INC candidate from Bellary (ST); Elected MP in 2024.",
+    "controversies": "No major controversies reported."
+  },
+  {
+    "id": "22",
+    "name": "Shri. Sagar Eshwar Khandre",
+    "party": "Indian National Congress",
+    "constituency": "Bidar",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sagar_Eshwar_Khandre_2024.jpg/220px-Sagar_Eshwar_Khandre_2024.jpg",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    },
+    "net_worth": "₹14.26 Crore (as per 2024 election affidavit)",
+    "assets": {
+      "movable": "₹57.3 Lakh",
+      "immovable": "₹12.9 Crore",
+      "liabilities": "₹1.5 Crore"
+    },
+    "education": "Graduate Professional (B.B.A. LLB Honours, Christ University, Bangalore, 2021)",
+    "criminal_cases": "0 pending",
+    "businesses": "Social Service, Agriculture & Advocacy",
+    "complete_history": "Born ~1998; Son of Karnataka Minister Eshwar Khandre; Youngest MP at 26; Elected from Bidar in 2024.",
+    "controversies": "Dynastic politics scrutiny due to family background; No personal cases."
+  },
+  {
+    "id": "23",
+    "name": "Shri. Sunil Bose",
+    "party": "Indian National Congress",
+    "constituency": "Chamarajanagar",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Sunil_Bose_MP_2024.jpg/220px-Sunil_Bose_MP_2024.jpg",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    },
+    "net_worth": "Not fully detailed; Liabilities ₹5.6 Crore",
+    "assets": {
+      "movable": "Not specified",
+      "immovable": "Not specified",
+      "liabilities": "₹5.6 Crore"
+    },
+    "education": "12th Pass (2000)",
+    "criminal_cases": "1 pending",
+    "businesses": "Son of Dr. H.C. Mahadevappa (INC leader)",
+    "complete_history": "Born ~1982; INC candidate; Elected MP from Chamarajanagar (SC) in 2024.",
+    "controversies": "Accused by BJP of concealing marital status in affidavit (2024); Demands for disqualification."
+  },
+  {
+    "id": "24",
+    "name": "Dr. Prabha Mallikarjun",
+    "party": "Indian National Congress",
+    "constituency": "Davanagere",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Prabha_Mallikarjun_2024.jpg/220px-Prabha_Mallikarjun_2024.jpg",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    },
+    "net_worth": "₹241 Crore (as per 2024 election affidavit)",
+    "assets": {
+      "movable": "Not specified",
+      "immovable": "Not specified",
+      "liabilities": "₹24.7 Crore"
+    },
+    "education": "Graduate (Dentist)",
+    "criminal_cases": "0 pending",
+    "businesses": "Director, Indian Cane Power Ltd; Shamanur Agro Tech Pvt Ltd; Wife of Karnataka Minister S.S. Mallikarjun",
+    "complete_history": "Born ~1976; Married to INC leader; Elected MP from Davanagere in 2024, defeating BJP's Gayathri Siddeshwara by 26,094 votes.",
+    "controversies": "One of the richest MPs; Family business scrutiny; No criminal cases."
+  },
+  {
+    "id": "25",
+    "name": "Shri. Radhakrishna",
+    "party": "Indian National Congress",
+    "constituency": "Gulbarga",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Radhakrishna_Doddamani_2024.jpg/220px-Radhakrishna_Doddamani_2024.jpg",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    },
+    "net_worth": "Not detailed in reports",
+    "assets": {
+      "movable": "Not specified",
+      "immovable": "Not specified",
+      "liabilities": "Not specified"
+    },
+    "education": "10th Pass (SSLC, 1978)",
+    "criminal_cases": "1 pending",
+    "businesses": "Business",
+    "complete_history": "Born ~1961; INC candidate Radhakrishna Doddamani; Won Gulbarga (SC) in 2024 by 6,52,325 votes against BJP's Umesh G. Jadhav.",
+    "controversies": "Pending criminal case; Family-linked political issues."
+  },
+  {
+    "id": "26",
+    "name": "Shri. Shreyas M Patel",
+    "party": "Indian National Congress",
+    "constituency": "Hassan",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Shreyas_M._Patel_2024.jpg/220px-Shreyas_M._Patel_2024.jpg",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    },
+    "net_worth": "₹42.7 Crore (as per 2024 election affidavit)",
+    "assets": {
+      "movable": "₹1.7 Crore",
+      "immovable": "₹41 Crore",
+      "liabilities": "₹88.8 Lakh"
+    },
+    "education": "Graduate Professional (BBM, Mahajan College, Mysuru, 2012)",
+    "criminal_cases": "1 pending (non-serious)",
+    "businesses": "Business; Spouse: Entrepreneur",
+    "complete_history": "Born ~1992; Son of late P. Mahesh; Contested Holenarasipur assembly (2023, lost); Elected MP from Hassan in 2024.",
+    "controversies": "Asset growth from ₹0.39 Cr (wife's previous); Pending case; Political rivalry with JD(S)."
+  },
+  {
+    "id": "27",
+    "name": "Shri. Rajashekar Basavaraj K Hitnal",
+    "party": "Indian National Congress",
+    "constituency": "Koppal",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/K._Rajashekar_Basavaraj_Hitnal_2024.jpg/220px-K._Rajashekar_Basavaraj_Hitnal_2024.jpg",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    },
+    "net_worth": "₹29 Crore (as per 2024 election affidavit)",
+    "assets": {
+      "movable": "Not specified",
+      "immovable": "Not specified",
+      "liabilities": "₹12.6 Crore"
+    },
+    "education": "12th Pass",
+    "criminal_cases": "3 pending (1 serious)",
+    "businesses": "Business",
+    "complete_history": "Born ~1980; INC candidate; Elected MP from Koppal in 2024.",
+    "controversies": "Multiple pending cases including undue influence at elections; Family member K. Raghavendra Basavaraj Hitnal has similar charges."
+  },
+  {
+    "id": "28",
+    "name": "Shri. G Kumar Naik",
+    "party": "Indian National Congress",
+    "constituency": "Raichur",
+    "house": "Lok Sabha",
+    "profile_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/G._Kumar_Naik_2024.jpg/220px-G._Kumar_Naik_2024.jpg",
+    "performance_metrics": {
+      "attendance_percentage": "N/A (Full 18th LS data not yet public)",
+      "questions_asked": "N/A (Full 18th LS data not yet public)",
+      "mplads_fund_utilization": "N/A (Full 18th LS data not yet public)"
+    },
+    "net_worth": "Not detailed in available reports",
+    "assets": {
+      "movable": "Not specified",
+      "immovable": "Not specified",
+      "liabilities": "Not specified"
+    },
+    "education": "Not specified",
+    "criminal_cases": "Not specified in reports",
+    "businesses": "Not specified",
+    "complete_history": "INC candidate; Elected MP from Raichur in 2024.",
+    "controversies": "Limited public information; No major controversies highlighted."
+  }
+]
