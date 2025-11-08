@@ -1,9 +1,10 @@
 import { NextResponse } from 'next/server';
+import { NextRequest } from 'next/server';
 import path from 'path';
 import { promises as fs } from 'fs';
 
 export async function GET(
-  request: Request,
+  request: NextRequest,
   { params }: { params: { id: string } }
 ) {
   try {
