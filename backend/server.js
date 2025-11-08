@@ -14,7 +14,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 const app = express();
-const PORT = process.env.PORT || 8000;
+const PORT = process.env.PORT || 4000;
 const API_KEY = process.env.API_KEY || 'your-secret-key';
 const DATA_FILE = join(__dirname, 'mps.json');
 
@@ -137,10 +137,13 @@ app.use((err, req, res, next) => {
   res.status(500).json({ error: 'Something went wrong!' });
 });
 
-// Start server
-app.listen(PORT, async () => {
-  await loadMpsData();
-  console.log(`Server is running on http://localhost:${PORT}`);
-});
-
+// For Vercel deployment
 export default app;
+
+// For local development
+if (process.env.NODE_ENV !== 'production') {
+  app.listen(PORT, async () => {
+    await loadMpsData();
+    console.log(`Server is running on port ${PORT}`);
+  });
+}
