@@ -1,15 +1,18 @@
 import { NextResponse } from 'next/server';
-import { NextRequest } from 'next/server';
+import { type NextRequest } from 'next/server';
 import path from 'path';
 import { promises as fs } from 'fs';
 
+interface RouteParams {
+  params: { id: string };
+}
+
 export async function GET(
   request: NextRequest,
-  context: { params: { id: string } }
+  { params }: RouteParams
 ) {
-  const { params } = context;
   try {
-    const id = params.id;
+    const { id } = params;
     
     // Path to the JSON file in the public directory
     const jsonDirectory = path.join(process.cwd(), 'public', 'data');
